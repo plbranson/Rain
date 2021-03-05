@@ -2,7 +2,7 @@
 Randomly generated rain colors used in Processing
 
 ## Video Example
-<img src="img/Rain.gif" alt="Rain">
+<img src="data/Rain.gif" alt="Rain">
 
 
 ## License
